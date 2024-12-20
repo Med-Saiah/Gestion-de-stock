@@ -1,2 +1,2 @@
 # Gestion-de-stock
-Gestion de stock et facturation  PHP 
+Gestion de stock et facturation en PHP 
