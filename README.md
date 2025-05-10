@@ -85,7 +85,7 @@ Il permet aux administrateurs et utilisateurs de :
 
 ## Auteurs
 
-Développé par [Mohamed SAIAH AISSA] – [(https://github.com/Med-Saiah)]
+Développé par   [Mohamed SAIAH AISSA](https://github.com/Med-Saiah)
 
 ---
 
